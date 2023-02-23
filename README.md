@@ -1,7 +1,6 @@
 ### Hi there, I'm Rashmi 👋
 
-## I am an active, dedicated, self-learning and positive-minded undergraduate at Department of Computer Science
-and Engineering, University of Moratuwa. 
+## I am an active, dedicated, self-learning and positive-minded undergraduate at Department of Computer Science and Engineering, University of Moratuwa. 
 
 ### Languages and Tools:
 
